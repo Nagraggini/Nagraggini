@@ -9,7 +9,7 @@
 The tasks have been getting progressively more challenging, as you’ll see. I hope that by the end, I’ll have successfully learned how to build for the web.</p>
 
 <a href="https://nagraggini.github.io/Explore-Knowledge/Main.html"> Projects & Experience</a>
-<p> 💻 Technologies I use: </p>
+<p> 💻 Technologies & Tools: </p>
 
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="30" />
