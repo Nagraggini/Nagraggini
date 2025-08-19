@@ -25,6 +25,7 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 
 ### Backend
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" title="Microsoft SQL Server">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
      alt="Flask"
