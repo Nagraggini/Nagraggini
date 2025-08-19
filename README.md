@@ -8,7 +8,7 @@
 
 The tasks have been getting progressively more challenging, as you’ll see. I hope that by the end, I’ll have successfully learned how to build for the web.</p>
 
-<a href="https://nagraggini.github.io/Explore-Knowledge/Main.html"> Projects & Experience</a>
+<a href="https://nagraggini.github.io/Project-showcase/Main.html"> Projects & Experience</a>
 <p> 💻 Technologies & Tools: </p>
 
 <span>
