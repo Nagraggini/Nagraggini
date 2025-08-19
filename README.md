@@ -1,4 +1,4 @@
-#  Hi 👋 Welcome, my name is Andrea Freud.
+#  Hi 👋 Welcome! My name is Andrea Freud.
 
 I started this project to truly learn web development—not just by watching tutorials, but by putting them into practice.
 The tasks have been getting progressively more challenging, as you’ll see. By the end, I’m confident I’ll have gained the skills to build and launch real web applications.
