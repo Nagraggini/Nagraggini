@@ -3,7 +3,7 @@
 I started this project to truly learn web development—not just by watching tutorials, but by putting them into practice.
 The tasks have been getting progressively more challenging, as you’ll see. By the end, I’m confident I’ll have gained the skills to build and launch real web applications.
 
-<p> <a href="https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf"> My CV </a></p>
+<p> <a href="https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf"> View My CV </a></p>
 
 <a href="https://nagraggini.github.io/Project-showcase/Main.html"> Projects & Experience</a>
 
