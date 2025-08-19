@@ -18,3 +18,5 @@ The tasks have been getting progressively more challenging, as you’ll see. I h
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />        
 </span>
 
+<p> <a href="https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf"> My CV </a></p>
+
