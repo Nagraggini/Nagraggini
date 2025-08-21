@@ -32,7 +32,7 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
      alt="Flask"
      height="30"
-     title="Flask">
+     title="Flask"/>
 </div>
 
 ### Tools
