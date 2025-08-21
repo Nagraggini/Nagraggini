@@ -29,10 +29,16 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" title="Microsoft SQL Server">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-     alt="Flask"
-     height="30"
-     title="Flask"/>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+    alt="Flask"
+    height="30"
+    title="Flask"
+    style="background-color: rgba(255, 255, 255, 1);
+           padding: 5px;
+           border-radius: 5px;
+          border: 2px solid pink;"
+  />
 </div>
 
 ### Tools
