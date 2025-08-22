@@ -5,7 +5,7 @@ The tasks have been getting progressively more challenging, as you’ll see. By 
 
 <p> <a href="https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf"> View My CV </a></p>
 
-<a href="https://nagraggini.github.io/Project-showcase/index.html"> View my Projects & Experience</a>
+<p> <a href="https://nagraggini.github.io/Project-showcase/index.html"> View my Projects & Experience</a></p>
 
 ## 📜 Github stats:
 
