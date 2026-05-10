@@ -47,19 +47,19 @@ I am focused on mastering server-side logic, database management, and building s
 ## ⭐ Featured Projects <!--TODO -->
 
 ### 🔹 Animal Shelter Web Application
-- **Description:** Full-stack web application for managing animal shelter records  
+- **Description:** Full-stack web application for managing animal shelter records.  
 - **Tech:** Java, Spring Boot, PostgreSQL, Spring Data JPA, Hibernate, REST API  
 - **Status:** Completed / Live demo → [Demo](https://animal-shelter-hro5.onrender.com/)
 
 ### 🔹 Student Registry App
-- **Description:** Application for managing and storing student data  
+- **Description:** Application for managing and storing student data. 
 - **Tech:** Java, Spring Boot, PostgreSQL, Spring Data JPA, Hibernate, REST API  
 - **Status:** Work in Progress → [Demo](https://student-registry-app-2gv1.onrender.com/)
 
-### 🔹 My IT Blog
-- **Description:** Built with Java and Spring Boot, featuring posts and content management  
-- **Tech:** Java, Spring Boot  
-- **Status:** Completed → [Demo](https://nagraggini-blog.onrender.com/)
+### 🔹 My Programming Handbook (Hungarian)
+- **Description:** A practical and welcoming place to learn Java, strengthen programming fundamentals, and build better code. 
+- **Tech:** mdBook
+- **Status:** Completed → [Demo](https://nagraggini.github.io/my-awesome-book/)
 
 ### 🔹 Planned Projects <!--TODO -->
 - **Get Things Done** (get-things-done) – Simple task manager API  
