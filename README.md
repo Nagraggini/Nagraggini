@@ -69,6 +69,31 @@ I am focused on mastering server-side logic, database management, and building s
 - **Inventory Management System** (inventory-management-system) – Product and stock management system
 - **Auction Platform with Payment Integration** (System for managing auctions, bids, and simulated bank transfer transactions)
 
+<div style="padding:.5rem 1rem;">
+    <details>
+    <summary><b>Skills</b></summary>
+    <ul>
+        <li>Problem Solving</li>
+        <li>Programming and Testing</li>
+        <li>Research & Learning</li>
+    </ul>
+    </details>
+</div>
+
+<div style="padding:.5rem 1rem;">
+    <details>
+    <summary><b>Hobbies</b></summary>
+    <p align="left">
+        🍽️ Eat | 🛌 Sleep | 👨🏻‍💻 Code | 🔁 Repeat
+    </p>
+    <ul>
+        <li>🌏 Traveling</li>
+        <li>📚 Learning</li>
+        <li>🎧 Listening to Music</li>
+    </ul>
+    </details>
+</div>
+
 I am listed among the most active GitHub users in Hungary:  
 
 [![committers.top badge](https://user-badge.committers.top/hungary/Nagraggini.svg)](https://user-badge.committers.top/hungary/Nagraggini)
