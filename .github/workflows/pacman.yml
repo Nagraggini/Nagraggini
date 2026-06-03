@@ -23,7 +23,7 @@ jobs:
         steps:
             # Generálja a Pac-Man játékot a GitHub hozzájárulásokból
             - name: generate github-contribution-grid-snake.svg
-              uses: platane/snk/svg-only@v3
+              uses: Platane/snk@v3
               with:
                   github_user_name: ${{ github.repository_owner }}
                   outputs: |
@@ -40,4 +40,4 @@ jobs:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 # A GitHub Actions részen -> A bal oldali listában kattints a Generate Pacman Garph nevű actionre.
 # Katt a Run workflow gombra.
-# Várj kb 2 percet é a háttérben létrejön az output ág.
+# Várj kb 2 percet a háttérben létrejön az output ág.
