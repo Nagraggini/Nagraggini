@@ -8,10 +8,11 @@ I am focused on mastering server-side logic, database management, and building s
 
 [View My CV](https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf)
 
-## Live Projects
+## QA & Backend Development Projects
 
 - [View my Web Projects](https://nagraggini.github.io/project-showcase/)
 - [My IT book (currently in Hungarian)](https://nagraggini.github.io/my-awesome-book/)
+- [Sauce Demo UI Automation Framework (Selenium WebDriver, Java, POM)](https://github.com/Nagraggini/sauce-demo)
 - [Animal Shelter App](https://animal-shelter-hro5.onrender.com/)
 - [Student Registry App (WIP)](https://student-registry-app-2gv1.onrender.com/)
 - [Spring Boot for Beginners (WIP)](https://springboot-for-beginners.onrender.com/)
@@ -103,3 +104,7 @@ I am actively looking for backend developer opportunities where I can contribute
 
 <!--![snake light](https://github.com/Nagraggini/Nagraggini/blob/output/github-contribution-grid-snake.svg)-->
 ![snake dark](https://github.com/Nagraggini/Nagraggini/blob/output/github-contribution-grid-snake-dark.svg)
+
+### GitHub Contribution Pacman
+
+![Pacman](https://raw.githubusercontent.com/Nagraggini/Nagraggini/output/github-contribution-grid-snake.svg)
