@@ -2,33 +2,32 @@
 
 Junior Backend Developer • Java • Spring Boot
 
-I build backend systems with a focus on clean architecture, REST APIs, and reliable data management.
-My goal is to develop scalable, maintainable server-side applications through real-world projects.
+I build backend applications with a focus on clean architecture, REST APIs, automated testing, and reliable data management.
+Passionate about learning software engineering through real-world projects and continuous improvement.
 
 [View My CV](https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf)
 
 ## ⭐ Featured Projects
 
 ### 🔹 Sauce Demo Automation Framework
-- **Description:** UI test automation framework using Selenium WebDriver
+- **Description:** End-to-end UI test automation framework built with Selenium WebDriver and the Page Object Model pattern.
 - **Tech:** Java, Selenium, JUnit, Page Object Model
 - **Status:** Completed → [Demo](https://github.com/Nagraggini/sauce-demo)
+  
+### 🔹 Automation Exercise E2E Test Suite
+- **Description:** Comprehensive UI and API test automation framework.
+- **Tech:** Java, Selenium, JUnit, Page Object Model, RestAssured
+- **Status:** Work in progress → [Demo](https://github.com/Nagraggini/automation-exercise)
   
 ### 🔹 Animal Shelter Web Application
 - **Description:** Full-stack web application for managing animal shelter records.  
 - **Tech:** Java, Spring Boot, PostgreSQL, Spring Data JPA, Hibernate, REST API  
 - **Status:** Completed / Live demo → [Demo](https://animal-shelter-hro5.onrender.com/)
 
-### 🔹 Student Registry App
-- **Description:** Application for managing and storing student data. 
-- **Tech:** Java, Spring Boot, PostgreSQL, Spring Data JPA, Hibernate, REST API  
-- **Status:** Work in Progress → [Demo](https://student-registry-app-2gv1.onrender.com/)
-
 ### 🔹 My Programming Handbook (Hungarian)
 - **Description:** A practical and welcoming place to learn Java, strengthen programming fundamentals, and build better code. 
 - **Tech:** mdBook
 - **Status:** Completed → [Demo](https://nagraggini.github.io/my-awesome-book/)
-
 
 ## 📜 Github stats
 
@@ -44,7 +43,7 @@ Java • Spring Boot • Hibernate/JPA • REST API
 PostgreSQL • H2 • SQL
 
 **Testing**
-JUnit 5 • Mockito • Rest Assured
+JUnit 5 • Mockito • Selenium WebDriver • Rest Assured
 
 **DevOps & Tools**
 Git • Docker • GitHub Actions • Maven • Linux
