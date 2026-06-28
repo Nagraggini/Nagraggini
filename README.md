@@ -13,7 +13,12 @@ Passionate about learning software engineering through real-world projects and c
 - **Description:** End-to-end UI test automation framework built with Selenium WebDriver and the Page Object Model pattern.
 - **Tech:** Java, Selenium, JUnit, Page Object Model
 - **Status:** Completed → [Demo](https://github.com/Nagraggini/sauce-demo)
-  
+
+### 🔹 Petstore Swagger API Test Automation
+- **Description:** REST Assured-based Java API test automation framework for validating the Swagger Petstore REST API.
+- **Tech:** Java, RestAssured, JUnit, Maven
+- **Status:** Completed → [Demo](https://github.com/Nagraggini/petstore)
+
 ### 🔹 Automation Exercise E2E Test Suite
 - **Description:** Comprehensive UI and API test automation framework.
 - **Tech:** Java, Selenium, JUnit, Page Object Model, RestAssured
