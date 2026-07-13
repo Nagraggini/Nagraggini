@@ -48,7 +48,7 @@ Java • Spring Boot • Hibernate/JPA • REST API
 PostgreSQL • H2 • SQL
 
 **Testing**
-JUnit 5 • Mockito • Selenium WebDriver • Rest Assured
+JUnit 5 • Mockito • Selenium WebDriver • Rest Assured • Playwright
 
 **DevOps & Tools**
 Git • Docker • GitHub Actions • Maven • Linux
