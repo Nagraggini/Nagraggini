@@ -59,8 +59,10 @@ Git • Docker • GitHub Actions • Maven • Linux
 - REST API design & best practices
 - Test automation (unit & integration testing)
 - Building production-like projects
+   
+[![huntech.dev](https://huntech.dev/api/badge/dev/Nagraggini.svg/)](https://huntech.dev/leaderboard/devs/)
 
-I am actively looking for backend developer opportunities where I can contribute and grow.
+I am actively looking for backend developer opportunities where I can contribute and grow.    
 
 ### GitHub Contribution Pacman
 
