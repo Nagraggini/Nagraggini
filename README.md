@@ -14,20 +14,20 @@ Passionate about learning software engineering through real-world projects and c
 - **Tech:** Java, RestAssured, JUnit, Maven
 - → [Repository](https://github.com/Nagraggini/petstore)
 
-### 🔹 Reqres API Test Automation
-- **Description:** REST Assured-based Java API test automation framework for validating the Reqres REST API.
+### 🔹 JSONPlaceholder API Test Automation
+- **Description:** REST Assured-based Java API test automation framework for validating the JSONPlaceholder REST API.
 - **Tech:** Java, RestAssured, JUnit, Maven
-- → [Repository](https://github.com/Nagraggini/reqres)
+- → [Repository](https://github.com/Nagraggini/jsonplaceholder-demo-api)
 
 ### 🔹 Sauce Demo Automation Framework
 - **Description:** End-to-end UI test automation framework built with Selenium WebDriver and the Page Object Model pattern.
 - **Tech:** Java, Selenium, JUnit, Page Object Model
 - → [Repository](https://github.com/Nagraggini/sauce-demo)
 
-### 🔹 Automation Exercise E2E Test Suite
-- **Description:** Comprehensive UI and API test automation framework.
-- **Tech:** Java, Selenium, JUnit, Page Object Model, RestAssured
-- → [Repository](https://github.com/Nagraggini/automation-exercise)
+### 🔹 Katalon Demo Cura Automation Framework
+- **Description:** End-to-end UI test automation framework built with Playwright and the Page Object Model pattern.
+- **Tech:** TypeScript, Playwright, Page Object Model
+- → [Repository](https://github.com/Nagraggini/katalon-demo-cura)
   
 ### 🔹 Animal Shelter Web Application
 - **Description:** Full-stack web application for managing animal shelter records.  
