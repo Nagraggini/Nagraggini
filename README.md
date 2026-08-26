@@ -1,9 +1,9 @@
 # Hello  🖐️ I'm Andrea Freud
 
-Junior Backend Developer • Java • Spring Boot
+Junior Java Backend Developer & Test Automation Engineer
 
-I build backend applications with a focus on clean architecture, REST APIs, automated testing, and reliable data management.
-Passionate about learning software engineering through real-world projects and continuous improvement.
+I build Java backend applications and automated testing frameworks, combining software development with API and UI test automation to create reliable, maintainable systems.
+I continuously develop my software engineering skills through real-world projects and hands-on learning.
 
 [View My CV](https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf)
 
@@ -11,12 +11,12 @@ Passionate about learning software engineering through real-world projects and c
 
 ### 🔹 Petstore Swagger API Test Automation
 - **Description:** REST Assured-based Java API test automation framework for validating the Swagger Petstore REST API.
-- **Tech:** Java, RestAssured, JUnit, Maven
+- **Tech:** Java, REST Assured, JUnit, Maven
 - → [Repository](https://github.com/Nagraggini/petstore)
 
 ### 🔹 JSONPlaceholder API Test Automation
 - **Description:** REST Assured-based Java API test automation framework for validating the JSONPlaceholder REST API.
-- **Tech:** Java, RestAssured, JUnit, Maven
+- **Tech:** Java, REST Assured, JUnit, Maven
 - → [Repository](https://github.com/Nagraggini/jsonplaceholder-demo-api)
 
 ### 🔹 Sauce Demo Automation Framework
@@ -65,7 +65,9 @@ Git • Docker • GitHub Actions • Maven • Linux
 - Test automation (unit & integration testing)
 - Building production-like projects
 
-I am actively looking for backend developer opportunities where I can contribute and grow.    
+I am actively looking for opportunities where I can combine
+    Java backend development with test automation and contribute
+    to building reliable software. 
 
 ## Contact
 
