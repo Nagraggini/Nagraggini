@@ -39,6 +39,10 @@ I continuously develop my software engineering skills through real-world project
 - **Tech:** mdBook
 - → [Live demo](https://nagraggini.github.io/my-awesome-book/)
 
+## 🔎 Explore More Projects
+
+These are only a selection of my projects. You can find the rest of my work in my complete [Project Showcase](https://nagraggini.github.io/).
+
 ## 📜 Github stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nagraggini&theme=tokyonight)
